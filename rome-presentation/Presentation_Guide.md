@@ -6,12 +6,12 @@
 
 | Student | Slides | Topics | Time |
 |---|---|---|---|
-| **Presenter 1** | 1-5 | Title, Introduction, Origins and Republic, Empire, Daily Life | about 4.5 to 5 min |
-| **Presenter 2** | 6-10 | Architecture, Art and Culture, Religion, Fall and Legacy, Conclusion and References | about 4.5 to 5 min |
+| **Presenter 1: Adrian Scalia** | 1-5 | Title, Introduction, Origins and Republic, Empire, Daily Life | about 4.5 to 5 min |
+| **Presenter 2: Noah Diaz** | 6-10 | Architecture, Art and Culture, Religion, Fall and Legacy, Conclusion and References | about 4.5 to 5 min |
 
 **Total: roughly 9 to 9.5 minutes** at a relaxed pace (about 140 words per minute), plus Q&A. The notes total about 1,350 words. If you run short, slow down and pause on images; if you run long, trim slides 5 and 8 first.
 
-The hand-off is at the end of slide 5 (Presenter 1 says "[Name 2], I'll hand it to you...") and Presenter 2 opens slide 6 with "Thanks, [Name 1]". Replace `[Name 1]`/`[Name 2]` in the notes and put your real names on slide 1.
+The hand-off is at the end of slide 5 (Adrian says "Noah, over to you...") and Noah opens slide 6 with "Thanks, Adrian".
 
 ## 2. Speaker notes
 Open **View > Notes** (or Presenter View) in PowerPoint. Each slide's notes begin with `[PRESENTER 1 SPEAKS]` or `[PRESENTER 2 SPEAKS]`. Say it in your own words; do not read it word for word.
@@ -63,6 +63,6 @@ Open **View > Notes** (or Presenter View) in PowerPoint. Each slide's notes begi
 
 ## 4. Before you present (to-do list)
 1. **Check every image and URL.** Images come from Wikimedia Commons. Open each image's Commons page and confirm the author and license; add the author name to the caption if the license requires attribution (for example CC BY-SA). The reference URLs were not click-tested in the build environment, so click each one.
-2. Replace `[Name 1]`, `[Name 2]`, and "Student 1 and Student 2" with real names.
+2. Credit the images: add author/license for the Augustus, Pantheon, and Alexander Mosaic photos.
 3. Practice with a timer; aim for 4:30 to 5:00 each.
 4. Confirm your professor's required citation style (MLA/APA/Chicago) and reformat slide 10 if needed.
